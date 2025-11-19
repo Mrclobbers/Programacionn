@@ -1,0 +1,7 @@
+Producto_1 = 10
+Producto_2 = 5
+Producto_3 = 12
+suma_com = Producto_1 + Producto_2 + Producto_3
+media = suma_com/3
+print("Total de compra:", suma_com,"€")
+print("Media:",media,"€")

@@ -1,0 +1,3 @@
+Altura_m = 1.91
+Altura_cm = Altura_m * 100
+print("Mi altura en cm es de:", Altura_cm,"cm")

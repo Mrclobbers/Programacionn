@@ -1,0 +1,6 @@
+cena = 30 
+propina = cena * 0.10
+Total= propina + cena
+print("El precio es:", cena,"€")
+print("La propina es:", propina,"€")
+print("El total es:", Total,"€")

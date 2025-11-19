@@ -1,0 +1,3 @@
+Edad_2025 = 17
+Edad_2030 = Edad_2025 + 5
+print("En 2030 tendre:", Edad_2030, "años")
