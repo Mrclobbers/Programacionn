@@ -1,18 +1,13 @@
 suma = 0
 cont = 0
 
-num = int(input("Número (0 para salir): "))
-
-while num != 0:
-    suma += num  
-    cont += 1 
+for num in range(1000):
     num = int(input("Número (0 para salir): "))
-
-if cont > 0:
-    media = suma / cont
-else:
-    media = 0
-
-# Mostrar resultados
-print(f"Suma: {suma}")
-print(f"Media: {media}")
+    if num == 0:
+        print("Sales del bucle")
+        break
+    suma += num
+    cont += 1
+print(f"La suma es igual a : {suma}")
+print(f"La media es igual a: {suma/cont}")
+    
