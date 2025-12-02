@@ -8,8 +8,6 @@
 
 import shutil
 
-contador = 0
-
 num = int(input("Pon un umbral de disco de 0 a 100: "))
 
 for umbral in range(0,100):
