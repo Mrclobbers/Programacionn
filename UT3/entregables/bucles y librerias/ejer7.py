@@ -5,11 +5,12 @@
 # Librerías: from pathlib import Path
 from pathlib import Path
 
-archivo = Path(input("Pon el nombre de un archivo: "))
-
-while not archivo.exists():
-    archivo = Path(input("El archivo no existe, pon otro archivo: "))
-
-print("Archivo encontrado:")
-print(f"Ruta: {archivo}")
-print(f"Información: {archivo.stat()}")
+while True:
+    nombre = input("Archivo en el directorio actual: ")
+    p = Path.cwd() / nombre
+    if p.exists() and p.is_file():
+        tam = p.stat().st_size
+        print("Tamaño (bytes):", tam)
+        break
+    else:
+        print("No existe. Intenta de nuevo.")
