@@ -1,9 +1,9 @@
 #Recorre el directorio actual y cuenta cuántos archivos terminan en .log.
 #Muestra el total encontrado.
 #Librerías: from pathlib import Path
+from pathlib import Path
 contador = 0
 
-from pathlib import Path
 directorio_actual  = Path.cwd()
 
 for f in directorio_actual.iterdir():

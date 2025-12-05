@@ -9,7 +9,7 @@ while True:
     for caracter in pwd:
         if caracter.isdigit():
             tiene_digito = True
-    if len(caracter) >= 6 and tiene_digito == True:
+    if len(caracter) >= 6 and tiene_digito:
         print("OK")
         break
     else:
