@@ -1,0 +1,2 @@
+#Crea una lista de 5 elementos donde cada elemento sea una cadena que se pide por el teclado.
+#Copia los elementos de la lista en otra lista, pero en orden inverso, y muestra los elementos invertidos por la pantalla.
