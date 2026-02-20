@@ -1,0 +1,108 @@
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
+/tmp -> existe -> elementos: 23 
+/var/tmp -> existe -> elementos: 10 
+/noexiste -> NO existe 
